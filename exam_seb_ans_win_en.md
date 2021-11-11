@@ -29,19 +29,19 @@ Please make sure you have gone through the checklist before starting the exam [g
 1. You will briefly see the following
 [![SEB-Ans-success](assets/SEB_Ans_success.png)](assets/SEB_Ans_success.png)
 
-1. In a next step SEB is loading the Ans software. Please choose the option "Login with school account". For faster selection of **University of Zurich (UZH)** type **Zurich** or **uzh** in the search bar
+1. In a next step the SEB is loading the Ans software. Please choose the option "Login with school account". For faster selection of **University of Zurich (UZH)** type **Zurich** or **uzh** in the search bar
 [![SEB-Ans-login](assets/SEB_Ans_login.png)](assets/SEB_Ans_login.png)
 
 1. Log in with your SWITCHaai
 [![SEB-Ans-AAILogin](assets/SEB_Ans_AAILogin.png)](assets/SEB_Ans_AAILogin.png)
 
-1. In addition to Ans the SEB opens a **Zoom Meeting** for procotoring (also see the profil-icon on the bottom right). 
+1. In addition to Ans the SEB opens a **Zoom Meeting** for procotoring: see the profile icon on the bottom right. 
 
 1. Please make the following adjustments:
-* mute the sound on your device but **DO NOT** mute the microphone within the zoom window.
-* make sure the camera is on by checking the "light" indication
+* mute the **sound** on your device but **DO NOT** mute the **microphone** within the zoom window.
+* make sure the **camera** is **on** by checking the "light" indication.
 
-1. 1. After the successful login to the ans plattform the exam is being displayed within the SEB. If you click on the exam the code of honor is displayed (if the exam is not yet live, you are seeing a countdown instead) 
+1. After the successful login to the ans plattform the exam is being displayed within the SEB. If you click on the exam the code of honor is displayed (if the exam is not yet live, you are seeing a countdown instead) 
 [![SEB-Ans-Plattform](assets/SEB_Ans_Plattform.png)](assets/SEB_Ans_Plattform.png)
 **Note**: if the exam is not displayed (correctly), look for the exam within the Ans landing page (click on the ans logo in the top left corner): 
 * If the exam time has not yet started, look for the exam within the section **Scheduled assignments**
