@@ -1,7 +1,7 @@
 ---
 id: exam_attachments_en
 title: Attachments
-parent: Exam navigation
+parent: Exam Navigation
 nav_order: 4
 ---
 
