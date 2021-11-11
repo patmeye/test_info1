@@ -20,11 +20,12 @@ If you want to end the test, you have 2 options:
 
 * Option 1: Select the last navigation arrow:
 If you have reached the last question, the following icon is visible at the bottom right of the screen:  
-[![Prüfung-exit](assets/exam-exittest.png)](assets/exam-exittest.png)
+[![Prüfung-exit](assets/exit_submitarrow.png)](assets/exit_submitarrow.png)
+
 
 * Option 2: Exit using the **"3-dot"-icon** **at the top-right** of the screen:
 Click on the **"3-dots"-icon** and select **Exit Test**:  
-[![Prüfung-exit](assets/examsettings-icon.png)](assets/examsettings-icon.png)
+[![Prüfung-exit](assets/exam-exittest.png)](assets/exam-exittest.png)
 
 Both options will then display the same pop-up:
 [![Prüfung-exit](assets/exam-exittestactive.png)](assets/exam-exittestactive.png)
