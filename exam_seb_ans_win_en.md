@@ -4,10 +4,9 @@ title: Ans & SEB with Windows
 nav_order: 5
 ---
 
-
 ## Ans & SEB (Windows)
 
-This documentation explains how to use the Safe Exam Browser in an **Ans** exam. To get to the Safe Exam Browser documentation, please click [here](https://uzh-oec.github.io/seb/exam_seb_ans_de.html){:target="_blank"}. 
+This documentation explains how to use the Safe Exam Browser in an **Ans** exam. To get to the Safe Exam Browser documentation, please click [here](https://uzh-oec.github.io/seb-en/exam_seb_ans_en.html){:target="_blank"}. 
 
 ### Start an exam
 Please make sure you have gone through the checklist before starting the exam [general information](https://uzh-oec.github.io/seb-en/exam_general_en.html){:target="_blank"}
