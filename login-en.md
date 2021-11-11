@@ -12,7 +12,7 @@ nav_order: 2
 1. Select **Log in with your school account** and insert “University of Zurich” or "UZH" into the search bar:     
 [![Login-UZH](assets/login-uzh.png)](assets/login-uzh.png)
 
-1. Once “University of Zurich (UZH)" has been selected, you are being redirecte to the AAI-Login of University of Zurich where you are logging in using your shortname and the corresponding password:
+1. Once “University of Zurich (UZH)" has been selected, you are being redirected to the AAI-Login of University of Zurich where you are logging in using your shortname and the corresponding password:
 [![Login-AAI](assets/login-aai.png)](assets/login-aai.png)
 
 1. If your login was successful, you will see your name and the institution - University of Zurich - in the upper left corner:

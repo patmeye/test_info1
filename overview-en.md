@@ -31,10 +31,10 @@ On the left hand side you can see:
 [![Startseite-Uebersicht-Links](assets/overview-left.png)](assets/overview-left.png)
 
 ### Top-right corner - Settings and help
-In the top right corner you can seee:
-* The profile-icon containing the settings and optino to logout 
+In the top right corner you can see:
+* The profile-icon containing the settings and optino to logout          
 [![Startseite-Uebersicht-Einstellungen](assets/overview-settings.png)](assets/overview-settings.png)
-* The help symbol [Help Center](https://support.ans.app/hc/en-us){:target="_blank"} for further information / instructions
+* The help symbol entailing the [Help Center](https://support.ans.app/hc/en-us){:target="_blank"} for further information / instructions
 [![Startseite-Uebersicht-Hilfe](assets/overview-help.png)](assets/overview-help.png)
 
 
