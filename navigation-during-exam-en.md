@@ -36,6 +36,6 @@ Apart from the bottom question bar, there is also the **side bar**, which can be
 The sidebar gives an overview of the questions with question type and score. Furthermore, the progress of the exam is displayed by means of the percentage of answered questions and the maximum score of the questions already answered: 
 [![Prüfungsnavigation-Seitenleiste](assets/sidebar.png)](assets/sidebar.png)
 
-**Note**: the sidebar is static, so it is not possible to click on a question to get there. Please use the [question bar] for that.(#Navigation-bar).
+**Note**: the sidebar is static, so it is not possible to click on a question to get there. Please use the [question bar](https://uzh-oec.github.io/ans-en/navigation-during-exam-en.html#navigation-bar) for that.
 
 
