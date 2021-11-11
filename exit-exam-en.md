@@ -1,6 +1,6 @@
 ---
 id: exit_exam_de
-title: Finish an Exam
+title: End exam
 parent: Exam Navigation
 nav_order: 6
 ---
