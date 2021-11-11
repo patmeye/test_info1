@@ -1,24 +1,24 @@
 ---
-id: start_exam_de
-title: Prüfung starten
-parent: Prüfungsnavigation
+id: start_exam_en
+title: Exam start
+parent: Exam Navigation
 nav_order: 1
 ---
 
-## Prüfung starten
+## Start an exam
 
-Vor dem Start der Prüfung, sehen Sie den Leistungsnachweis unter "Scheduled assignments":
-
+Before the time of an exam start you will find it within "Scheduled assignments":
 [![Prüfungstarten-ScheduledAssignement](assets/assignment-scheduled.png)](assets/assignment-scheduled.png)
 
-1. Wenn Sie auf die bevorstehende Prüfung (Scheduled Assignement) klicken, erscheint der Countdown:
+1. If you select the exam within the scheduled Assignement a countdown appears:
 [![Prüfungstarten-Countdown](assets/assignment-countdown-2.png)](assets/assignment-countdown-2.png)
 
-1. Sobald der Countdown auf **00:00** fällt, lädt sich die Seite automatisch neu. (hat die Prüfung bereits begonnnen, dann ist der Countdown nicht mehr ersichtlich)
+1. As soon as the countdown drops to **00:00** the page is automatically refreshed. (if the exam has alraedy started, there will be no countdown)
 
-1. Nun müssen Sie bestätigen, dass Sie sich an den Ehrenkodex halten werden und können die Prüfung im Anschluss mit dem Klick auf den **Start**-Button beginnen:
+1. Once you have accepted the code of honor you can then click the **start**-button:
 [![Prüfungstarten-Start](assets/assignment-code-of-honor.png)](assets/assignment-code-of-honor.png)
 
-**Hinweis**: bei der Verwendung des Safe Exam Browser mit Ans ist das Starten der Prüfung anders. Sehen Sie dazu die [SEB Dokumentation](https://uzh-oec.github.io/seb/exam_seb_ans_de.html){:target="_blank"}.
-
+**Note**: If your exam set up is using Ans in conjuntion with the Safe Exam Browser, the prcess to start an exam is different. For further information please see the respective chapter:
+* [Ans & SEB with Windows](https://uzh-oec.github.io/ans-en/exam_seb_ans_win_en.html){:target="_blank"}.
+* [Ans & SEB with MacOS](https://uzh-oec.github.io/ans-en/exam_seb_ans_mac_en.html){:target="_blank"}.
 
