@@ -7,7 +7,7 @@ nav_order: 6
 
 ## Finish an exam
 {: .no_toc }
-The procedure for stopping and pausing the test is described below.
+The procedure for submitting the exam is described below.
 
 1. Inhaltsübersicht
 {:toc}
