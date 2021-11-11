@@ -22,5 +22,5 @@ Before the start time of an exam you will find it within **Scheduled assignments
 * [Ans & SEB with Windows](https://uzh-oec.github.io/ans-en/exam_seb_ans_win_en.html){:target="_blank"}.
 * [Ans & SEB with MacOS](https://uzh-oec.github.io/ans-en/exam_seb_ans_mac_en.html){:target="_blank"}.
 
-For further information on how to set up the Safe Exam Browser, please go the the documentation linked he[here](https://uzh-oec.github.io/seb-en/Installation%20SEB.html){:target="_blank"}.
+For further information on how to set up the Safe Exam Browser, please go the the documentation linked[here](https://uzh-oec.github.io/seb-en/Installation%20SEB.html){:target="_blank"}.
 
