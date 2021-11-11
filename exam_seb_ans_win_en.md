@@ -43,10 +43,9 @@ Please make sure you have gone through the checklist before starting the exam [g
 
 1. After the successful login to the ans plattform the exam is being displayed within the SEB. If you click on the exam the code of honor is displayed (if the exam is not yet live, you are seeing a countdown instead) 
 [![SEB-Ans-Plattform](assets/SEB_Ans_Plattform.png)](assets/SEB_Ans_Plattform.png)
-**Note**: if the exam is not displayed (correctly), look for the exam within the Ans landing page (click on the ans logo in the top left corner): 
+**Note**: if the exam is not displayed (correctly), look for the exam within the Ans landing page (click on the ans logo in the top-left corner): 
 * If the exam time has not yet started, look for the exam within the section **Scheduled assignments**
 * If the exam time has already started, look for the exam within the secton **Live assignments**
-Alle weiteren Informationen zu Ans finden Sie [hier](https://uzh-oec.github.io/ans/exam-navigation-de.html){:target="_blank"}
 
 1. You are now able to take the exam by accepting the code of honor and pressing the **Start**-button. You can find additional information on Ans [here](https://uzh-oec.github.io/ans/exam-navigation-en.html){:target="_blank"}
 [![SEB-Ans-StartExam](assets/SEB_Ans_startexam.png)](assets/SEB_Ans_startexam.png)
