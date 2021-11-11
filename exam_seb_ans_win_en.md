@@ -12,9 +12,13 @@ This documentation explains how to use the Safe Exam Browser in an **Ans** exam.
 ### Start an exam
 Please make sure you have gone through the checklist before starting the exam [general information](https://uzh-oec.github.io/seb-en/exam_general_en.html){:target="_blank"}
 
-1. You will be provided a configuration file for the exam on the following website: [https://oec.uzh.ch/de/seb](https://oec.uzh.ch/de/seb){:target="_blank"}
+1. You will be provided a **configuration file** for the exam on the following website: [https://oec.uzh.ch/de/seb](https://oec.uzh.ch/de/seb){:target="_blank"}
 
-1. Please select **FILENAME starten**
+1. Once you are on the above website, go to the section **moduel specific information** and select your module at the bottom of the page.
+
+1. On the respective module page you will find several testing runs as well as the exam listed. Go to the respective section you need the configuration file for and select **FILENAME starten** 
+
+1. The configuratoin is loading and starting the SEB
 
 1. During the start of the SEB a pop-up is indicating that you are being proctored. Please click **OK**       
 [![SEB-Ans-openfile](assets/SEB_Ans_openfile.png)](SEB_Ans_openfile.png)

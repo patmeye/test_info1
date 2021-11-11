@@ -13,7 +13,13 @@ Please make sure you have gone through the checklist before starting the exam [g
 
 1. You will be provided a configuration file for the exam on the following website: [https://oec.uzh.ch/de/seb](https://oec.uzh.ch/de/seb){:target="_blank"}
 
-1. Please select **FILENAME starten**
+1. You will be provided a **configuration file** for the exam on the following website: [https://oec.uzh.ch/de/seb](https://oec.uzh.ch/de/seb){:target="_blank"}
+
+1. Once you are on the above website, go to the section **moduel specific information** and select your module at the bottom of the page.
+
+1. On the respective module page you will find several testing runs as well as the exam listed. Go to the respective section you need the configuration file for and select **FILENAME starten** 
+
+1. The configuratoin is loading and starting the SEB
 
 1. During the start of the SEB a pop-up is indicating that you are being proctored. Please click **OK**       
 [![SEB-Ans-start-Mac](assets/SEB_Ans_remoteproctoring_mac.png)](assets/SEB_Ans_remoteproctoring_mac.png)
@@ -39,15 +45,6 @@ Please make sure you have gone through the checklist before starting the exam [g
 
 1. You are now able to take the exam. You can find additional information on Ans on the website [here](https://uzh-oec.github.io/ans/exam-navigation-en.html){:target="_blank"}
 
-### Finish an exam
- 
-You are **not** allowed to quit the Safe Exam Browser before the end of exam time slot. Early exit from the Safe Exam Browser is considered exam fraud. Do **NOT** select the button «End Safe Exam Browser» before the exam time has elapsed.
-[![SEB-Ans-QuitBrowser](assets/SEB_Ans_donotquit.png)](assets/SEB_Ans_donotquit.png)
-
-**Mote**: When quitting the SEB using a MacOS, an pop-up appears containing an error message "Safe Exam Browser quit unexpectely". Please select **OK**
-[![SEB-Ans-Error-Mac](assets/SEB_Ans_postquit_mac.png)](assets/SEB_Ans_postquit_mac.png)
-
-
 ### During an exam
 
 The safe exam browser has a task bar at the bottom, where the following 
@@ -58,6 +55,17 @@ The safe exam browser has a task bar at the bottom, where the following
 * Exit- Button: when pressing the button, a password is requested, which only the administrator has. Since exiting the Safe Exam browser is not allowed, you must select **Cancel** in the pop-up when you press the button. Exiting the Safe Exam Browser AFTER submitting the exam is done with a button appearing in the Ans plattfrom: see chapter **Finish an exam** below
 
 [![SEB-Ans-QuitBrowser](assets/SEB_Ans_quitbrowser.png)](assets/SEB_Ans_quitbrowser.png)
+
+### Finish an exam
+ 
+You are **not** allowed to quit the Safe Exam Browser before the end of exam time slot. Early exit from the Safe Exam Browser is considered exam fraud. Do **NOT** select the button «End Safe Exam Browser» before the exam time has elapsed.
+[![SEB-Ans-QuitBrowser](assets/SEB_Ans_donotquit.png)](assets/SEB_Ans_donotquit.png)
+
+**Mote**: When quitting the SEB using a MacOS, an pop-up appears containing an error message "Safe Exam Browser quit unexpectely". Please select **OK**
+[![SEB-Ans-Error-Mac](assets/SEB_Ans_postquit_mac.png)](assets/SEB_Ans_postquit_mac.png)
+
+
+
 
 
 
