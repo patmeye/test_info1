@@ -9,7 +9,7 @@ nav_order: 2
 1. Click [here](https://ans.app/users/sign_in){:target="_blank"} or copy the following link [https://ans.app/users/sign_in](https://ans.app/users/sign_in){:target="_blank"} into your browser (Firefox or Chrome).
 [![Login-WAYF](assets/login-wayf.png)](assets/login-wayf.png)
 
-1. Select **Log in with your school account** and insert “University of Zurich” or "UZH" into the search bar:
+1. Select **Log in with your school account** and insert “University of Zurich” or "UZH" into the search bar:     
 [![Login-UZH](assets/login-uzh.png)](assets/login-uzh.png)
 
 1. Once “University of Zurich (UZH)" has been selected, you are being redirecte to the AAI-Login of University of Zurich where you are logging in using your shortname and the corresponding password:
