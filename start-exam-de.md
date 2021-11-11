@@ -7,7 +7,7 @@ nav_order: 1
 
 ## Start an exam
 
-Before the time of an exam start you will find it within "Scheduled assignments":
+Before the start time of an exam you will find it within "Scheduled assignments":
 [![Prüfungstarten-ScheduledAssignement](assets/assignment-scheduled.png)](assets/assignment-scheduled.png)
 
 1. If you select the exam within the scheduled Assignement a countdown appears:
