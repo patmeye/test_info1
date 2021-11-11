@@ -1,6 +1,6 @@
 ---
 id: start_exam_en
-title: Start exam
+title: Start Exam
 parent: Exam Navigation
 nav_order: 1
 ---

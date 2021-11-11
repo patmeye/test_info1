@@ -1,6 +1,6 @@
 ---
 id: navigation_during_exam_en
-title: Navigation in exam mode
+title: Navigation in Exam
 parent: Exam Navigation
 nav_order: 3
 ---

@@ -1,6 +1,6 @@
 ---
 id: exam_autosave_de
-title: Saving progress
+title: Saving Progress
 parent: Exam Navigation
 nav_order: 5
 ---
