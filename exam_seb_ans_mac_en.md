@@ -37,6 +37,7 @@ All further information on Ans can be found [here](https://uzh-oec.github.io/ans
 1. At the bottom right of the SEB, the **video procotring** under the profile icon is now also active. Please make the following adjustments if necessary:
 * The microphone is switched on (mandatory).
 * The sound of the device is switched of
+**Note**: Depending on your operating system, you may not be able to see yourself, so it is easiest to log in at the same time as another student and confirm with each other that the camera on the device is working.
 
 1. You are now able to take the exam. You can find additional information on Ans on the website [here](https://uzh-oec.github.io/ans/exam-navigation-en.html){:target="_blank"}
 
