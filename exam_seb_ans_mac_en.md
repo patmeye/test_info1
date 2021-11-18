@@ -27,19 +27,16 @@ Please make sure you have gone through the checklist before starting the exam [g
 
 1. Log in with your SWITCHaai
 
-1. In addition to Ans the SEB opens a **Zoom Meeting** for procotoring (also see the profil-icon on the bottom right). 
-[![SEB-Ans-Zoom-Mac](assets/SEB_Ans_Zoom_mac.png)](assets/SEB_Ans_Zoom_mac.png)
-
-1. Please make the following adjustments:
-* mute the sound on your device but **DO NOT** mute the microphone within the zoom window.
-* make sure the camera is on by checking the "light" indication
-
-1. After the successful login to the ans plattform the exam is being displayed within the SEB. If you click on the exam the code of honor is displayed (if the exam is not yet live, you are seeing a countdown instead) 
+1. Upon successful login, the exam will be displayed directly to you within the Ans platform so that you can see the code of honour (if the exam is not yet live, you will see it **after** the countdown).
 [![SEB-Ans-Prüfung-Mac](assets/SEB_Ans_Prüfung_mac.png)](assets/SEB_Ans_Prüfung_mac.png)
-**Note**: if the exam is not (correctly) displayed, look for the exam within the Ans landing page (click on the ans logo in the top left corner): 
-* If the exam time has not yet started, look for the exam within the section **Scheduled assignments**
-* If the exam time has already started, look for the exam within the secton **Live assignments**
+**Note**: if the exam is not displayed (e.g. an error message such as "Access denied" / "Incorrect configuration detected), click on the **ans** logo at the top left and search for the exam:
+* If the exam time has not yet started, you will find the exam under **Scheduled assignments**.
+* If the exam has already started, you will find the exam under **Live assignments**.
+All further information on Ans can be found [here](https://uzh-oec.github.io/ans/exam-navigation-de.html){:target="_blank"}
 
+1. At the bottom right of the SEB, the **video procotring** under the profile icon is now also active. Please make the following adjustments if necessary:
+* The microphone is switched on (mandatory).
+* The sound of the device is switched of
 
 1. You are now able to take the exam. You can find additional information on Ans on the website [here](https://uzh-oec.github.io/ans/exam-navigation-en.html){:target="_blank"}
 
